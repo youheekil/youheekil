@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @youheekil
-- 👀 I’m interested in data engineer, data science, and data analysis
-- 🌱 I’m currently learning SQL and PostgreSQL: The Complete Developer's Guide
+- 👀 I’m interested in data engineer, machine learning engineer, data science. 
+- 🌱 I’m currently learning PostgreSQL: The Complete Developer's Guide
 - 📫 How to reach me 
 
 <!---
